@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dentalweb/static/css/main.5219afcd.css",
+    "main.js": "/dentalweb/static/js/main.44c2167d.js",
+    "static/media/heroImage.jpg": "/dentalweb/static/media/heroImage.b22b0ad2ce6aeebf3115.jpg",
+    "static/media/DentistTwo.jpg": "/dentalweb/static/media/DentistTwo.3349d2b885d6139e4fd3.jpg",
+    "static/media/dentistOne.jpg": "/dentalweb/static/media/dentistOne.746099301d915434cdce.jpg",
+    "static/media/Dentist3.jpg": "/dentalweb/static/media/Dentist3.88249bb659a8edd1c485.jpg",
+    "static/media/working.jpg": "/dentalweb/static/media/working.a8715a017e16a07862f2.jpg",
+    "static/media/ourGoalImage.png": "/dentalweb/static/media/ourGoalImage.7553f034aefc7ab02cae.png",
+    "static/media/fa-solid-900.ttf": "/dentalweb/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/dentalweb/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/dentalweb/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/dentalweb/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/dentalweb/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/dentalweb/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/logo.png": "/dentalweb/static/media/logo.a391ae2bf77896800d14.png",
+    "static/media/fa-v4compatibility.ttf": "/dentalweb/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/dentalweb/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/dentalweb/index.html",
+    "main.5219afcd.css.map": "/dentalweb/static/css/main.5219afcd.css.map",
+    "main.44c2167d.js.map": "/dentalweb/static/js/main.44c2167d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5219afcd.css",
+    "static/js/main.44c2167d.js"
+  ]
+}
